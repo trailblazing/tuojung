@@ -1,0 +1,3 @@
+cd /etc/yum.repos.d/
+wget http://download.opensuse.org/repositories/home:tpokorra:mono/Fedora_21/home:tpokorra:mono.repo
+yum install monodevelop-opt
